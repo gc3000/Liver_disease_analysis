@@ -1,4 +1,4 @@
-# Logistic regression model for Liver Disease
+# Logistic regression model for liver disease
 
 This paper builds a logistic regression model and decision tree to predict liver disease in patients. The dataset was obtained from the
 UCI machine learning repository. The dataset was cleaned and transformed into an 80/20 training test split. A correlation matrix was
